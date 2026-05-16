@@ -4,8 +4,8 @@ The analysis is for a fictional legal aid helpline covering all 58 counties in C
 The following files are input data sources for the PowerBI workbook above:
 
 - [Sample Census Data](https://github.com/pjames-consulting/powerbi_example/blob/main/sample_census_data.csv): 
-Selected data from Table S1701, Poverty Status in the Past 12 Months for California counties,
+selected data from Table S1701, Poverty Status in the Past 12 Months for California counties,
 ACS 2024 5-Year Estimates
 
 - [Sample Case Data](https://github.com/pjames-consulting/powerbi_example/blob/main/sample_case_data.csv):
-Synthetic case data for a legal aid helpline. 
+synthetic case data for a legal aid helpline. 
