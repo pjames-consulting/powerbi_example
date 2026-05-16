@@ -8,4 +8,4 @@ Selected data from Table S1701, Poverty Status in the Past 12 Months for Califor
 ACS 2024 5-Year Estimates
 
 - [Sample Case Data](https://github.com/pjames-consulting/powerbi_example/blob/main/sample_case_data.csv):
-Synethic sample case data for a legal aid helpline. 
+Synthetic case data for a legal aid helpline. 
