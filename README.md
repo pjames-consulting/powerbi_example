@@ -1,5 +1,4 @@
-This repository hosts a [PowerBI workbook]() that demonstrates how to use PowerBI for analyzing geographic patterns in access to legal aid services. 
-The analysis is for a fictional legal aid helpline covering all 58 counties in California.
+This repository hosts a [PowerBI workbook]() that demonstrates how to use PowerBI for analyzing geographic patterns in access to legal aid services. The analysis is for a fictional legal aid helpline covering all 58 counties in California. The same analysis is provided in an [Excel spreadsheet](https://github.com/pjames-consulting/powerbi_example/blob/main/Analyzing%20Access%20Rates%20-%20Example%20in%20Excel.xlsx) for comparison. 
 
 The following files are input data sources for the PowerBI workbook above:
 
