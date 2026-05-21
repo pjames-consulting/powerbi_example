@@ -10,3 +10,5 @@ ACS 2024 5-Year Estimates
 
 - [Sample Case Data](https://github.com/pjames-consulting/powerbi_example/blob/main/sample_case_data.csv):
 synthetic case data for a legal aid helpline. 
+
+[GEOCORR](https://mcdc.missouri.edu/applications/geocorr.html) is a useful tool if you are looking to understand the relationship between different Census geographies (e.g. which cities are in which counties etc).
